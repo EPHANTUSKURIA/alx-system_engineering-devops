@@ -6,7 +6,7 @@ The following README describes the commands used for the 0x00-shell_basics proje
 3. The long format --> ls -l
 4. Hidden files --> ls -la
 5. I love numbers --> ls -l -n -a
-6. Welcome alx --> mkdir /tmp/holberton
+6. Welcome alx --> mkdir /tmp/alx
 7. Betty in Alx --> mv /tmp/betty /tmp/alx/
 8. Bye bye Betty --> rm /tmp/alx/betty
 9. Bye bye Alx --> rmdir /tmp/alx
